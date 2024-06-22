@@ -36,7 +36,7 @@ Detailed Lighthouse results can be viewed here:
 
 ## Deployment
 
-This project is hosted and publicly available, intended for anyone interested in the culinary arts and cultural heritage of Australia and Nepal. Can be accessed through : 
+This project is hosted and publicly available, intended for anyone interested in the culinary arts and cultural heritage of Australia and Nepal. Can be accessed through : [Github Page](https://jani672.github.io/hit/)
 
 ## Conclusion
 
